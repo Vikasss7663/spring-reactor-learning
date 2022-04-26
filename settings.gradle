@@ -1,0 +1,5 @@
+rootProject.name = 'spring-reactor-learning'
+
+include 'movies-review-service'
+include 'movies-service'
+include 'movies-info-service'
